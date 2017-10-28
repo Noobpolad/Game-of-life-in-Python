@@ -12,3 +12,4 @@ This is a useful exercise (though it’s not a realistic or meaningful program) 
 5.	Dead cells that have exactly 3 alive neighbors will change to alive in the next cycle.
 6.	All births and deaths take place simultaneously. This way dying cells cannot help to give birth to other cells, or prevent the death of other cells. Also cells born in one cycle do not affect births and deaths of the same cycle.
 
+Look for gosper.gif example.
